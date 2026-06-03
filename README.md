@@ -39,6 +39,10 @@ This project analyzes 2,000 Spotify tracks from 1998–2020 to understand how au
 9. Data Visualization
 10. Insight Generation
 
+## Project Visualizations
+
+Some visualizations generated during the analysis are available in the `images` folder.
+
 ## Key Findings
 
 * Popularity showed very weak correlation with most audio features.
