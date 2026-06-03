@@ -44,19 +44,36 @@ This project analyzes 2,000 Spotify tracks from 1998–2020 to understand how au
 Some visualizations generated during the analysis are available in the `images` folder.
 ## Sample Visualizations
 
-![Visualization 1](images/image1.png)
+## Sample Visualizations
 
-![Visualization 2](images/image2.png)
+### Visualization 1
 
-![Visualization 1](images/image3.png)
+![Visualization 1](images/all_images/image1.png)
 
-![Visualization 2](images/image4.png)
+### Visualization 2
 
-![Visualization 1](images/image5.png)
+![Visualization 2](images/all_images/image2.png)
 
-![Visualization 2](images/image6.png)
+### Visualization 3
 
-![Visualization 2](images/image7.png)
+![Visualization 3](images/all_images/image3.png)
+
+### Visualization 4
+
+![Visualization 4](images/all_images/image4.png)
+
+### Visualization 5
+
+![Visualization 5](images/all_images/image5.png)
+
+### Visualization 6
+
+![Visualization 6](images/all_images/image6.png)
+
+### Visualization 7
+
+![Visualization 7](images/all_images/image7.png)
+
 
 ## Key Findings
 
